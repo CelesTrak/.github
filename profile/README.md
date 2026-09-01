@@ -1,4 +1,4 @@
-- ATTENTION: If you are using [buriedsignals/scoutpost-os] to access CelesTrak data, please UPDATE ASAP!!!
+- ATTENTION: If you are using [buriedsignals/scoutpost-os] to access CelesTrak data, please UPDATE ASAP!!! (09/01/2026)
 
 - ❤️ As a non-profit CelesTrak needs your help, Donate Today at https://giving.gofundme.com/campaign/750670/donate ❤️
   
