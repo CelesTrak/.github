@@ -1,4 +1,6 @@
-- ❤️ As a non-profit CelesTrak needs your help, Donate Today at https://giving.classy.org/campaign/750670/donate ❤️
+- ATTENTION: If you are using [buriedsignals/scoutpost-os] to access CelesTrak data, please UPDATE ASAP!!!
+
+- ❤️ As a non-profit CelesTrak needs your help, Donate Today at https://giving.gofundme.com/campaign/750670/donate ❤️
   
 - 👋 Hi, We are @CelesTrak (https://celestrak.org) 501(c)(3) Non-Profit
 - 👀 We are interested in Space Flight Safety, Preserving the Earth Orbital Environment for Future Generations, Sharing Data, and helping People understand and learn about Space 
